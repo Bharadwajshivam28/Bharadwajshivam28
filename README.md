@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 🔥 Shivam kumar 😎</h1>
-<h3 align="center">Carpediem!!____👌</h3>
+<h1 align="center">Hi There 👋</h1>
+<h3 align="center">My name is Shivam Kumar!____👌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajshivam28&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajshivam28" /> </p>
 
