@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharadwajshivam28" alt="bharadwajshivam28" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/shivam2812dec" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/shivam2812dec?logo=twitter&style=for-the-badge" alt="https://twitter.com/shivam2812dec" /></a> </p>
+<p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwXwNUS-vv4eCIIM6_7faAs4-iC7B-DoUOzWtmuivk8-M-03oAQY1KgeWq0Gk5QNIkX4&usqp=CAU" alt="https://twitter.com/shivam2812dec" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
