@@ -1,7 +1,8 @@
 ![httpswww linkedin cominshivam-kumar-70a746256(1)](https://user-images.githubusercontent.com/108119109/220189642-7e98f38e-0b0a-43e0-b8ab-673268cd8739.png)
 
 <h1 align="center">🅷🅸 👋 🅸'🅼  🆂🅷🅸🆅🅰🅼 🅺🆄🅼🅰🆁</h1>
-<h3 align="center">𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚 𝐰𝐡𝐨 𝐥𝐨𝐯𝐞𝐬 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞!</h3>
+<h2 align="center">𝘼 𝘿𝙚𝙫𝙊𝙥𝙨 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 !</h2>
+<h2 align="center">𝙄 𝙖𝙢 𝙖𝙡𝙨𝙤 𝙖 𝙛𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙬𝙚𝙗 𝙙𝙚𝙫e𝙡𝙤𝙥𝙚𝙧</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajshivam28&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajshivam28" /> </p>
 
@@ -10,7 +11,7 @@
 <p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwXwNUS-vv4eCIIM6_7faAs4-iC7B-DoUOzWtmuivk8-M-03oAQY1KgeWq0Gk5QNIkX4&usqp=CAU" alt="https://twitter.com/shivam2812dec" /></a> </p>
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and  **DevOps**
 
 - 📫 How to reach me **shivambharadwaj822@gmail.com**
 
