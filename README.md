@@ -3,7 +3,7 @@
 
 
 <h1 align="center">🅷🅸 👋 🅸'🅼  🆂🅷🅸🆅🅰🅼 🅺🆄🅼🅰🆁</h1>
-<h2 align="center">𝘼 𝘿𝙚𝙫𝙊𝙥𝙨 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧,𝙖 𝙬𝙚𝙗 𝙙𝙚𝙫e𝙡𝙤𝙥𝙚r 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 !</h2>
+<h2 align="center">𝘼 𝙬𝙚𝙗 𝙙𝙚𝙫e𝙡𝙤𝙥𝙚r 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 !</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajshivam28&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajshivam28" /> </p>
 
