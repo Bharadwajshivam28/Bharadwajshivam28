@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwXwNUS-vv4eCIIM6_7faAs4-iC7B-DoUOzWtmuivk8-M-03oAQY1KgeWq0Gk5QNIkX4&usqp=CAU" alt="https://twitter.com/shivam2812dec" /></a> </p>
 
 
-- 🌱 I’m currently learning **JavaScript** and  **DevOps**
+- 🌱 I’m currently learning **JavaScript** and  **ReactJS**
 
 - 📫 How to reach me **shivambharadwaj822@gmail.com**
 
