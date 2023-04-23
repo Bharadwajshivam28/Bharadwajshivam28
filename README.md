@@ -1,4 +1,4 @@
-![SHIVAM KUMAR](https://user-images.githubusercontent.com/108119109/228374946-aff3b02e-2d23-41ec-84f4-31ff49d1bda6.png)
+![WhatsApp Image 2023-04-22 at 9 25 21 PM](https://user-images.githubusercontent.com/108119109/233842023-a2c52632-b2fb-448e-8ab0-8daacfda35be.jpeg)
 
 
 <h1 align="center">🅷🅸 👋 🅸'🅼  🆂🅷🅸🆅🅰🅼 🅺🆄🅼🅰🆁</h1>
