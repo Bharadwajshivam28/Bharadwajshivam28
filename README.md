@@ -1,5 +1,4 @@
-![WhatsApp Image 2023-04-22 at 9 25 21 PM](https://user-images.githubusercontent.com/108119109/233842023-a2c52632-b2fb-448e-8ab0-8daacfda35be.jpeg)
-
+![MERN](https://github.com/Bharadwajshivam28/Bharadwajshivam28/assets/108119109/42f4e1c9-7346-4147-8be4-76eace28716b)
 
 <h1 align="center">🅷🅸 👋 🅸'🅼  🆂🅷🅸🆅🅰🅼 🅺🆄🅼🅰🆁</h1>
 <h2 align="center">𝘼 𝙬𝙚𝙗 𝙙𝙚𝙫e𝙡𝙤𝙥𝙚r 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 !</h2>
