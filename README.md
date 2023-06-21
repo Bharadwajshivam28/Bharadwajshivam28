@@ -1,7 +1,7 @@
 ![MERN](https://github.com/Bharadwajshivam28/Bharadwajshivam28/assets/108119109/42f4e1c9-7346-4147-8be4-76eace28716b)
 
 <h1 align="center">🅷🅸 👋 🅸'🅼  🆂🅷🅸🆅🅰🅼 🅺🆄🅼🅰🆁</h1>
-<h2 align="center">𝘼 𝙬𝙚𝙗 𝙙𝙚𝙫e𝙡𝙤𝙥𝙚r 𝙬𝙞𝙩𝙝 𝙖 𝙥𝙖𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙤𝙥𝙚𝙣 𝙨𝙤𝙪𝙧𝙘𝙚 !</h2>
+<h2 align="center">A MERN Stack Developer with a passion for open source !</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajshivam28&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajshivam28" /> </p>
 
@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwXwNUS-vv4eCIIM6_7faAs4-iC7B-DoUOzWtmuivk8-M-03oAQY1KgeWq0Gk5QNIkX4&usqp=CAU" alt="https://twitter.com/shivam2812dec" /></a> </p>
 
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **shivambharadwaj822@gmail.com**
 
