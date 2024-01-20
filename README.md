@@ -1,4 +1,4 @@
-## About Me:
+## 😇 About Me:
 Hey 👋 I'm into DevOps and Cloud. Every line in my code is copied from GPT 😊
 
 ## 🌐 Socials:
