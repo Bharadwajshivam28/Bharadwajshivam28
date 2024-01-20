@@ -1,5 +1,5 @@
 ## About Me:
-Hey there 👋 I'm into DevOps and Cloud. Every line in my code is copied from GPT 😊
+Hey 👋 I'm into DevOps and Cloud. Every line in my code is copied from GPT 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-kumar-70a746256) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shivambharadwaj822) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CodeItShivam) 
